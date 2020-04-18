@@ -1,3 +1,7 @@
+# Dataset and weights
+UCMERCED_HW_SceneClassification 
+weights
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
